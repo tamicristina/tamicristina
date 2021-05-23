@@ -1,7 +1,17 @@
-### Hi 👋🏾, I'm Tamires
+# Hi 👋🏾, I'm Tamires
 ## Web development student
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamicristina&theme=radical)](https://github.com/tamicristina/github-readme-stats)
+I’m currently learning about HTML5, CSS, JS and React 📚
+
+
+
+
+[![texto alt](https://img.shields.io/badge/Tamires_Cristina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamires-cristina/)
+
+ 
+[![TamiCristina GitHub stats](https://github-readme-stats.vercel.app/api?username=tamicristina&theme=radical)](https://github.com/tamicristina/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamicristina&layout=compact)](https://github.com/tamicristina/github-readme-stats)
+
+
 
 
 
