@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi👋, I'm Tamires
+## Web development student
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamicristina&theme=radical)](https://github.com/tamicristina/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamicristina&layout=compact)](https://github.com/tamicristina/github-readme-stats)
 
 <!--
 **tamicristina/tamicristina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
