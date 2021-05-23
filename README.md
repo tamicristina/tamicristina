@@ -9,7 +9,7 @@ I’m currently learning about HTML5, CSS, JS and React 📚
 
  
 [![TamiCristina GitHub stats](https://github-readme-stats.vercel.app/api?username=tamicristina&theme=radical)](https://github.com/tamicristina/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamicristina&layout=compact)](https://github.com/tamicristina/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamicristina&layout=compact&theme=radical)](https://github.com/tamicristina/github-readme-stats)
 
 
 
