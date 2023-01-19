@@ -1,5 +1,5 @@
 ## Hi! I'm Tamires Cristina
-- 📚 Front-end student
+- 📚 Front-end developer and student
 - 🔭 I’m currently learning about HTML5, CSS, JS and React 📚
 <div style="display: inline_block"> 
 <div style="display: inline_block"><br>
