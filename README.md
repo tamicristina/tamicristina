@@ -1,6 +1,6 @@
 ## Hi! I'm Tamires Cristina
 - 📚 Front-end developer and student
-- 🔭 I’m currently learning about HTML5, CSS, JS and React 📚
+- 🔭 I’m currently learning about React Native 📚
 <div style="display: inline_block"> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tami-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
