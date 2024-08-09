@@ -1,5 +1,5 @@
 ## Hi! I'm Tamires Cristina
-- 📚 Front-end developer and student
+- 📚 Front-end developer
 - 🔭 I’m currently learning about React Native 📚
 <div>
   <a href="https://github.com/tamicristina">
