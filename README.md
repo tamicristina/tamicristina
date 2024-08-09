@@ -1,6 +1,6 @@
 ## Hi! I'm Tamires Cristina
 - 📚 Front-end developer
-- 🔭 I’m currently learning about React Native 📚
+- 🔭 Always Learning 📚
 <div>
   <a href="https://github.com/tamicristina">
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=tamicristina&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
