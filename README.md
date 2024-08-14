@@ -16,8 +16,7 @@
   <img align="center" alt="Tami-React-Native" height="30" width="30" src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/icon/mobile/reactnative.png">
   <img align="center" alt="Aida-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/>
-  <img align="right" width="300em" alt="computer" src="https://cdn.discordapp.com/attachments/828002754991226944/886701430596075550/computer.png"/><br>
+  <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/><br>
 </div>
 
 ##
